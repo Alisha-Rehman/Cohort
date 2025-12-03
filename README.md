@@ -135,6 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Built with ❤️ using React + Vite + Tailwind CSS<br>
-  © 2025 Team Cohort. Empowerment Through Learning.
+  Built with ❤️ by Muhammad Mutahir<br>
+  © 2025 Cohort. Empowerment Through Learning.
 </p>
